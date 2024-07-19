@@ -1,0 +1,16 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.wasl.superapp",
+            "sha256_cert_fingerprints": [
+                "35:B2:90:53:6A:63:86:60:DB:B2:41:7B:13:28:4C:89:59:9E:D5:C9:46:8E:DD:92:E7:16:79:2F:9E:A8:A3:EE",
+                "A2:04:18:68:6F:58:81:6F:65:A4:87:4F:D3:C4:97:16:15:26:AA:33:64:79:70:C0:0C:0D:61:3A:7B:3A:1E:09",
+                "10:09:A3:14:62:6C:33:2F:27:4E:8B:73:18:33:14:E9:BD:A7:7C:96:D1:59:F0:CE:6F:0A:B2:00:4C:02:F3:74"
+            ]
+        }
+    }
+]
